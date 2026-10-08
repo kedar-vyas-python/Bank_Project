@@ -1,4 +1,4 @@
-```python
+
 # ============================================================
 # KEDAR FINANCE CO-OP BANK
 # Jalgaon, Maharashtra
@@ -409,4 +409,3 @@ def main():
 if __name__ == "__main__":
 
     main()
-```
